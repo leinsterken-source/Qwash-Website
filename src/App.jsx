@@ -49,11 +49,12 @@ export default function App() {
       <section className="bg-blue-600 text-white py-16 text-center">
         <h2 className="text-3xl font-semibold mb-4">Get a Quote</h2>
         <p className="mb-6">Call us at +353899423001 or email info@qwashireland.ie</p>
-        <a href="mailto:info@qwash.ie" className="bg-white text-blue-600 px-6 py-3 rounded-full font-bold hover:bg-gray-100">
+        <a href="mailto:info@qwashireland.ie" className="bg-white text-blue-600 px-6 py-3 rounded-full font-bold hover:bg-gray-100">
           Contact Us
         </a>
       </section>
     </div>
   );
 }
+
 
