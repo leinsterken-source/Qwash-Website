@@ -39,7 +39,7 @@ export default function App() {
       <section className="py-16 px-8 max-w-6xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-8">Before & After</h2>
         <div className="grid md:grid-cols-3 gap-6">
-          <img src="../images/1.jpg" alt="Cleaned Yard 1" className="rounded-lg" />
+          <img src="images/1.jpg" alt="Cleaned Yard 1" className="rounded-lg" />
           <img src="https://source.unsplash.com/300x200/?building,clean" alt="Cleaned Yard 2" className="rounded-lg" />
           <img src="https://source.unsplash.com/300x200/?driveway,clean" alt="Cleaned Yard 3" className="rounded-lg" />
         </div>
@@ -56,6 +56,7 @@ export default function App() {
     </div>
   );
 }
+
 
 
 
